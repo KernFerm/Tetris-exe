@@ -5,6 +5,8 @@
 
 ## Download the Exe Application
 
+- [Tetris](https://github.com/KernFerm/Tetris-exe/releases/tag/tetris)
+
 ## Usage
 To use `Tetris`, follow these steps:
 
