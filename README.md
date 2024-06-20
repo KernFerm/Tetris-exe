@@ -3,6 +3,8 @@
 ##  Overview
 -  Making it fun to bring back classic games like Tetris , user-friendly on their Windows systems with a simple graphical user interface (GUI).
 
+## Download the Exe Application
+
 ## Usage
 To use `Tetris`, follow these steps:
 
